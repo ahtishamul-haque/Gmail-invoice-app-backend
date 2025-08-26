@@ -1,4 +1,4 @@
-# Gmail-invoice-app-backend
+# gmail-invoice-app-backend
 
 To start the application, run:
 
